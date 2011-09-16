@@ -1,6 +1,10 @@
 TopWeb Movie Builder README
 ===========================
-A some what silly applications which downloads images of the most popular webpages according to their Alexa ranking and combines them into a video. 
+A some what silly applications which downloads images of the most popular webpages according to their Alexa ranking and combines them into a video.
+
+Example
+-------
+http://www.youtube.com/watch?v=rOFFD4Fmfis 
 
 Requires
 --------
